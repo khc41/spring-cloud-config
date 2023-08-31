@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: my_token_dev_changed
+  secret: dev_config_token_#7
 
 gateway:
-  ip: host.docker.internal
+  ip: 10.0.0.2
